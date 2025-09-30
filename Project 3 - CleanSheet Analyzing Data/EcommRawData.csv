@@ -1,0 +1,56 @@
+﻿CustomerID,Name,Email,Phone,City,Product,Category,Quantity,Price,TotalAmount,OrderDate,PaymentMode
+C001,Saira Desai,tarini68@randhawa.info,+910330668655,Bathinda,Jeans,Fashion,4,3801,15204,2025-03-11,Debit Card
+C002,Lagan Rau,malhotrainaaya@dugar.com,04626068173,Bhubaneswar,Bluetooth Earbuds,Electronics,5,1332,6660,2025-09-04,COD
+C003,Vedika Lata,,06659963132,Jaipur,Spices Pack,,4,2892,,2025-08-01,
+C004,Rhea Buch,ishita27@bali.net,07757097726,Chandigarh,Wheat Flour,Grocery,3,4970,14910,2025-06-29,Net Banking
+C005,Hunar Mangal,bdoctor@datta.com,09502542895,Vadodara,Shoes,Fashion,1,3716,3716,2025-03-27,Debit Card
+C006,Vidur Chatterjee,ahari@yahoo.com,4390230544,Jodhpur,Snacks Box,Grocery,4,4618,18472,2025-08-28,Net Banking
+C007,Miraan Grover,,,,,,,,,,
+C008,Pari Ganesan,,,,,,,,,,
+C009,Devansh Sabharwal,,,,,,,,,,
+C010,Pranay Chokshi,,,,,,,,,,
+C011,Divyansh Malhotra,,,,,,,,,,
+C012,Myra Korpal,,,,,,,,,,
+C013,Kiaan Issac,,,,,,,,,,
+C014,Vivaan Uppal,,,,,,,,,,
+C015,Ahana  Kapur,,,,,,,,,,
+C016,Pranay Madan,,,,,,,,,,
+C017,Rohan Shanker,,,,,,,,,,
+C018,Nirvaan Vora,,,,,,,,,,
+C019,Raunak Chaudry,jayanissac@varkey-venkatesh.com,+911684363385,Bidar,Watch,Fashion,5,3949,19745,2025-07-30,UPI
+C020,Armaan Iyengar,wabletaran@bedi.com,+917658439542,Guwahati,Watch,Fashion,5,1375,6875,2025-07-21,Credit Card
+C021,Gokul Reddy,raghavtank@hotmail.com,06097250350,Mirzapur,T-shirt,Fashion,3,2248,6744,2025-05-27,Net Banking
+C022,Aarna Karnik,krishnajivin@hotmail.com,00208213781,Kota,Mixer Grinder,Home,3,262,786,2025-05-05,Debit Card
+C023,Dhruv Barad,nishith57@hotmail.com,5350218275,Panihati,Snacks Box,Grocery,1,3313,3313,2025-01-27,UPI
+C024,Sahil Sanghvi,kismat39@ratti.info,3818820333,Tadepalligudem,Jeans,Fashion,5,3684,18420,2025-04-20,COD
+C025,Amani Korpal,aaina42@hotmail.com,+910189291643,Etawah,Bluetooth Earbuds,Electronics,4,1366,5464,2025-09-06,Net Banking
+C026,Nayantara Dugar,sakshamswamy@hotmail.com,1625005321,Dehradun,Rice Bag,Grocery,1,4286,4286,2025-04-23,Net Banking
+C027,Saira Bawa,kiara14@vasa.info,+914711928302,Sangli-Miraj & Kupwad,Cookware Set,Home,4,3562,14248,2025-07-24,Net Banking
+C028,Shray Guha,ivanaravel@kurian.com,+916602511026,Morbi,Smart Watch,Electronics,1,4579,4579,2025-03-30,Credit Card
+C029,Neysa Cherian,karivaibhav@hotmail.com,07769613090,Rohtak,Snacks Box,Grocery,5,2039,10195,2025-03-28,COD
+C030,Jhanvi Kala,vgera@yahoo.com,08790913495,Dhule,Cooking Oil,Grocery,4,4167,16668,2025-08-31,Net Banking
+C031,Kimaya Shah,indrajit93@gmail.com,9222238996,Mumbai,Watch,Fashion,1,3303,3303,2025-04-14,Net Banking
+C032,Lakshit Ratta,mthaman@hotmail.com,7609474966,Panihati,Power Bank,Electronics,1,1596,1596,2025-03-11,Credit Card
+C033,Raunak Cheema,yasmin25@dutt.com,7124672585,Bathinda,Water Purifier,Home,5,2576,12880,2025-05-11,Debit Card
+C034,Rania Sodhi,fsinha@anand-suresh.biz,02020529758,Chandigarh,Rice Bag,Grocery,5,1907,9535,2025-07-15,Debit Card
+C035,Dishani Sethi,tankzain@gmail.com,7467422795,Amroha,Keyboard,Electronics,1,3065,3065,2025-01-31,Debit Card
+C036,Gatik Chandran,ysekhon@bandi.com,8883662306,Aizawl,Snacks Box,Grocery,4,3561,14244,2025-07-17,Debit Card
+C037,Damini Sane,ivanarao@kala.com,+912744526892,Berhampur,Jeans,Fashion,2,4443,8886,2025-02-18,Debit Card
+C038,Nitara Bhattacharyya,anaysolanki@koshy-virk.info,9726784835,Saharanpur,Cookware Set,Home,1,693,693,2025-08-05,Debit Card
+C039,Renee Dyal,akarshraj@hotmail.com,01501790273,Proddatur,Wheat Flour,Grocery,2,4517,9034,2025-01-17,COD
+C040,Nishith Chaudhari,gkari@yahoo.com,07525348979,Akola,T-shirt,Fashion,3,4940,14820,2025-09-14,UPI
+C041,Anay Batra,ychakraborty@sibal.com,02214061102,Arrah,Rice Bag,Grocery,5,1362,6810,2025-08-01,UPI
+C042,Taran Vyas,ranganathanchirag@chana.com,5593894995,Durgapur,Smart Watch,Electronics,2,438,876,2025-02-02,Credit Card
+C043,Anya Behl,vedika14@gmail.com,+912706550022,Bareilly,Mixer Grinder,Home,2,2741,5482,2025-03-23,Net Banking
+C044,Azad Sachdev,dsaini@gmail.com,+912235939786,Saharanpur,Mixer Grinder,Home,4,3545,14180,2025-05-22,UPI
+C045,Shlok Karnik,gtrivedi@khosla.com,04923852226,Latur,Jeans,Fashion,3,2002,6006,2025-06-12,COD
+C046,Ojas Dewan,fatehbasu@gmail.com,+912889618756,Danapur,Jeans,Fashion,4,1842,7368,2025-04-13,UPI
+C047,Azad Rao,nitaraborra@hotmail.com,+914000961773,Bardhaman,Spices Pack,Grocery,3,2350,7050,2025-06-24,UPI
+C048,Rania Tara,armaanmadan@gmail.com,0676361295,Kadapa,Snacks Box,Grocery,5,4923,24615,2025-04-21,Credit Card
+C049,Divij Majumdar,,08467798414,,Electric Kettle,,3,,12183,,Net Banking
+C050,Adah Sabharwal,saneanahita@gmail.com,+918385210891,Medininagar,Cookware Set,Home,3,2745,8235,2025-05-20,Net Banking
+C043,Anya Behl,vedika14@gmail.com,+912706550022,Bareilly,Mixer Grinder,Home,2,2741,5482,2025-03-23,Net Banking
+C044,Azad Sachdev,dsaini@gmail.com,+912235939786,Saharanpur,Mixer Grinder,Home,4,3545,14180,2025-05-22,UPI
+C045,Shlok Karnik,gtrivedi@khosla.com,04923852226,Latur,Jeans,Fashion,3,2002,6006,2025-06-12,COD
+C046,Ojas Dewan,fatehbasu@gmail.com,+912889618756,Danapur,Jeans,Fashion,4,1842,7368,2025-04-13,UPI
+C047,Azad Rao,nitaraborra@hotmail.com,+914000961773,Bardhaman,Spices Pack,Grocery,3,2350,7050,2025-06-24,UPI

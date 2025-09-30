@@ -1,0 +1,37 @@
+,CustomerID,Name,Email,Phone,City,Product,Category,Quantity,Price,TotalAmount,OrderDate,PaymentMode
+0,C001,Saira Desai,tarini68@randhawa.info,910330668655.0,Bathinda,Jeans,Fashion,4.0,3801.0,15204.0,2025-03-11,Debit Card
+1,C002,Lagan Rau,malhotrainaaya@dugar.com,4626068173.0,Bhubaneswar,Bluetooth Earbuds,Electronics,5.0,1332.0,6660.0,2025-09-04,COD
+3,C004,Rhea Buch,ishita27@bali.net,7757097726.0,Chandigarh,Wheat Flour,Grocery,3.0,4970.0,14910.0,2025-06-29,Net Banking
+4,C005,Hunar Mangal,bdoctor@datta.com,9502542895.0,Vadodara,Shoes,Fashion,1.0,3716.0,3716.0,2025-03-27,Debit Card
+5,C006,Vidur Chatterjee,ahari@yahoo.com,4390230544.0,Jodhpur,Snacks Box,Grocery,4.0,4618.0,18472.0,2025-08-28,Net Banking
+18,C019,Raunak Chaudry,jayanissac@varkey-venkatesh.com,911684363385.0,Bidar,Watch,Fashion,5.0,3949.0,19745.0,2025-07-30,UPI
+19,C020,Armaan Iyengar,wabletaran@bedi.com,917658439542.0,Guwahati,Watch,Fashion,5.0,1375.0,6875.0,2025-07-21,Credit Card
+20,C021,Gokul Reddy,raghavtank@hotmail.com,6097250350.0,Mirzapur,T-shirt,Fashion,3.0,2248.0,6744.0,2025-05-27,Net Banking
+21,C022,Aarna Karnik,krishnajivin@hotmail.com,208213781.0,Kota,Mixer Grinder,Home,3.0,262.0,786.0,2025-05-05,Debit Card
+22,C023,Dhruv Barad,nishith57@hotmail.com,5350218275.0,Panihati,Snacks Box,Grocery,1.0,3313.0,3313.0,2025-01-27,UPI
+23,C024,Sahil Sanghvi,kismat39@ratti.info,3818820333.0,Tadepalligudem,Jeans,Fashion,5.0,3684.0,18420.0,2025-04-20,COD
+24,C025,Amani Korpal,aaina42@hotmail.com,910189291643.0,Etawah,Bluetooth Earbuds,Electronics,4.0,1366.0,5464.0,2025-09-06,Net Banking
+25,C026,Nayantara Dugar,sakshamswamy@hotmail.com,1625005321.0,Dehradun,Rice Bag,Grocery,1.0,4286.0,4286.0,2025-04-23,Net Banking
+26,C027,Saira Bawa,kiara14@vasa.info,914711928302.0,Sangli-Miraj & Kupwad,Cookware Set,Home,4.0,3562.0,14248.0,2025-07-24,Net Banking
+27,C028,Shray Guha,ivanaravel@kurian.com,916602511026.0,Morbi,Smart Watch,Electronics,1.0,4579.0,4579.0,2025-03-30,Credit Card
+28,C029,Neysa Cherian,karivaibhav@hotmail.com,7769613090.0,Rohtak,Snacks Box,Grocery,5.0,2039.0,10195.0,2025-03-28,COD
+29,C030,Jhanvi Kala,vgera@yahoo.com,8790913495.0,Dhule,Cooking Oil,Grocery,4.0,4167.0,16668.0,2025-08-31,Net Banking
+30,C031,Kimaya Shah,indrajit93@gmail.com,9222238996.0,Mumbai,Watch,Fashion,1.0,3303.0,3303.0,2025-04-14,Net Banking
+31,C032,Lakshit Ratta,mthaman@hotmail.com,7609474966.0,Panihati,Power Bank,Electronics,1.0,1596.0,1596.0,2025-03-11,Credit Card
+32,C033,Raunak Cheema,yasmin25@dutt.com,7124672585.0,Bathinda,Water Purifier,Home,5.0,2576.0,12880.0,2025-05-11,Debit Card
+33,C034,Rania Sodhi,fsinha@anand-suresh.biz,2020529758.0,Chandigarh,Rice Bag,Grocery,5.0,1907.0,9535.0,2025-07-15,Debit Card
+34,C035,Dishani Sethi,tankzain@gmail.com,7467422795.0,Amroha,Keyboard,Electronics,1.0,3065.0,3065.0,2025-01-31,Debit Card
+35,C036,Gatik Chandran,ysekhon@bandi.com,8883662306.0,Aizawl,Snacks Box,Grocery,4.0,3561.0,14244.0,2025-07-17,Debit Card
+36,C037,Damini Sane,ivanarao@kala.com,912744526892.0,Berhampur,Jeans,Fashion,2.0,4443.0,8886.0,2025-02-18,Debit Card
+37,C038,Nitara Bhattacharyya,anaysolanki@koshy-virk.info,9726784835.0,Saharanpur,Cookware Set,Home,1.0,693.0,693.0,2025-08-05,Debit Card
+38,C039,Renee Dyal,akarshraj@hotmail.com,1501790273.0,Proddatur,Wheat Flour,Grocery,2.0,4517.0,9034.0,2025-01-17,COD
+39,C040,Nishith Chaudhari,gkari@yahoo.com,7525348979.0,Akola,T-shirt,Fashion,3.0,4940.0,14820.0,2025-09-14,UPI
+40,C041,Anay Batra,ychakraborty@sibal.com,2214061102.0,Arrah,Rice Bag,Grocery,5.0,1362.0,6810.0,2025-08-01,UPI
+41,C042,Taran Vyas,ranganathanchirag@chana.com,5593894995.0,Durgapur,Smart Watch,Electronics,2.0,438.0,876.0,2025-02-02,Credit Card
+42,C043,Anya Behl,vedika14@gmail.com,912706550022.0,Bareilly,Mixer Grinder,Home,2.0,2741.0,5482.0,2025-03-23,Net Banking
+43,C044,Azad Sachdev,dsaini@gmail.com,912235939786.0,Saharanpur,Mixer Grinder,Home,4.0,3545.0,14180.0,2025-05-22,UPI
+44,C045,Shlok Karnik,gtrivedi@khosla.com,4923852226.0,Latur,Jeans,Fashion,3.0,2002.0,6006.0,2025-06-12,COD
+45,C046,Ojas Dewan,fatehbasu@gmail.com,912889618756.0,Danapur,Jeans,Fashion,4.0,1842.0,7368.0,2025-04-13,UPI
+46,C047,Azad Rao,nitaraborra@hotmail.com,914000961773.0,Bardhaman,Spices Pack,Grocery,3.0,2350.0,7050.0,2025-06-24,UPI
+47,C048,Rania Tara,armaanmadan@gmail.com,676361295.0,Kadapa,Snacks Box,Grocery,5.0,4923.0,24615.0,2025-04-21,Credit Card
+49,C050,Adah Sabharwal,saneanahita@gmail.com,918385210891.0,Medininagar,Cookware Set,Home,3.0,2745.0,8235.0,2025-05-20,Net Banking
